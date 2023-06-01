@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Platform CRM", "Platform CRM\Platform CRM.csproj", "{EA408491-F7C8-4F03-9CCE-6224637EEB99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform CRM. Telegram", "Platform CRM. Telegram\Platform CRM. Telegram.csproj", "{7D416E8D-B982-4948-B54A-A1266AD80080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA408491-F7C8-4F03-9CCE-6224637EEB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA408491-F7C8-4F03-9CCE-6224637EEB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA408491-F7C8-4F03-9CCE-6224637EEB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA408491-F7C8-4F03-9CCE-6224637EEB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D416E8D-B982-4948-B54A-A1266AD80080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D416E8D-B982-4948-B54A-A1266AD80080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D416E8D-B982-4948-B54A-A1266AD80080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D416E8D-B982-4948-B54A-A1266AD80080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85FD4B2C-5271-441D-B275-235AF9CA9645}
+	EndGlobalSection
+EndGlobal

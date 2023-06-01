@@ -1,0 +1,29 @@
+.form-spacing{
+    position: absolute;
+    top: 149px;
+    right: 15px;
+}
+
+.confirm-position{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.confirm-style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border: #ccc 1px solid;
+    border-radius: 15px;
+    padding: 20px;
+    backdrop-filter: blur(10px);
+}
